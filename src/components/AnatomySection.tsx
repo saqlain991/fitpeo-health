@@ -3,7 +3,7 @@ import { healthIndicators } from "../data/healthStatus";
 import {  ScanLine, ZoomIn } from "lucide-react";
 
 const AnatomySection: React.FC = () => {
-  const anatomyImageUrl = "../../public/assets/body.png";
+  const anatomyImageUrl = "/public/assets/body.png";
 
   return (
     <>
